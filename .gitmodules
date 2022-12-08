@@ -1,0 +1,3 @@
+[submodule "lars"]
+	path = lars
+	url = git@github.com:zebrajaeger/lars.git
